@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange and wonderful news from Chippingnorton, in the county of Oxon of certain dreadful aparitions, which were seen in the air, on the 28th of July, which began about half an hour after nine of the clock at night, and continued till near eleven, in which time was seen the appearances of several flaming swords, strange motions of the superior orbs, with the unusual sparkling ot the stars, with their dreadful continuations : with the account of the opening of the heavens, and strange appearances therein disclosing themselves, with several other prodigious circumstances, not heard of in any age, to the great amazement of the beholders : as it was communicated in a letter, to one Mr. Tho. Colley, living in West-Smithfield, and attested by Tho. Brown, Eliz. Greenaway and Ann Gutheridge, who were spectators of the dreadful apparitions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61758</idno>
+            <idno type="STC">Wing S5854</idno>
+            <idno type="STC">ESTC R18528</idno>
+            <idno type="EEBO-CITATION">11939558</idno>
+            <idno type="OCLC">ocm 11939558</idno>
+            <idno type="VID">51239</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61758)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51239)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 515:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange and wonderful news from Chippingnorton, in the county of Oxon of certain dreadful aparitions, which were seen in the air, on the 28th of July, which began about half an hour after nine of the clock at night, and continued till near eleven, in which time was seen the appearances of several flaming swords, strange motions of the superior orbs, with the unusual sparkling ot the stars, with their dreadful continuations : with the account of the opening of the heavens, and strange appearances therein disclosing themselves, with several other prodigious circumstances, not heard of in any age, to the great amazement of the beholders : as it was communicated in a letter, to one Mr. Tho. Colley, living in West-Smithfield, and attested by Tho. Brown, Eliz. Greenaway and Ann Gutheridge, who were spectators of the dreadful apparitions.</title>
+               </titleStmt>
+               <extent>2 [i.e. 4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apparitions.</term>
+               <term>Unidentified flying objects --  Sightings and encounters --  England.</term>
+               <term>Chipping Norton (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:51239:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <head>Strange and wonderful News FROM CHIPPING NORTON IN THE County of Oxon. Of certain dreadful APARITIONS, WHICH Were ſeen in the Air, on the 28th of <hi>July,</hi> which began about half an hour after nine of the Clock at Night, and conti<g ref="char:EOLhyphen"/>nued till near eleven, in which time was ſeen the appear<g ref="char:EOLhyphen"/>ances of ſeveral Flaming Swords, ſtrange Motions of of the ſuperior Orbs, with the unuſual ſparkling of the Stars, with their dreadful Continuations.</head>
+            <head type="sub">With the Account of the opening of the Heavens, and ſtrange Appearances therein diſcloſing themſelves, with ſeveral other prodigious circumſtances, not heard of in any Age, to the great amazement of the Beholders, as it was communicated in a Letter, to one Mr. <hi>Tho Colley</hi> living in <hi>Weſt-Smithfield.</hi> and Atteſted by <hi>Tho. Brown, Eliz. Greenaway</hi> and <hi>Ann Gutheridge,</hi> who were ſpectators of the dreadful Apparitions.</head>
+            <head type="sub">And if any Perſon would be further ſatisfied of the Truth of this Relation, let them repair to Mr. <hi>Nightingals</hi> at the <hi>Bear-Inn</hi> in <hi>Weſt Smithfield,</hi> and they may be ſatisfied</head>
+            <p>WHat ſhall we ſay, when Prodegies ſtill attend the riſing Sun and the falling Sun, Heavens hand muſt ſure be in the Jenuine product of ſuch monſtrous Births, when leaking Fires ſurround the dazling Orbs, and Natures ſelf be<g ref="char:EOLhyphen"/>gins to Groan, when ſwife winged Lightnings and impetuous Thunders role, to rend the watry Fleeces of the Skies, where Factions Meteors Muſter all their Forces, and contend with warring Elements, as if they would unhinge the Globe, or re<g ref="char:EOLhyphen"/>duce
+<pb n="2" facs="tcp:51239:2"/>
+               <!-- PDF PAGE 23 -->the Univerſe into its primal Chaos, and in an undigeſted Heap of all Confuſion, lay the mighty Maſs, ſo powerful and ſo dreadful have their lare effects been known, ſo that ſome have felt their irreſiſted Forces, and confirmed the Teſtimony of their Rapid Violence to after Ages, with Tragical Scene of their expired Breath, being ſtricken dead with unexpected Flames and many Towns and Villages have ſuffered much in thoſe tem<g ref="char:EOLhyphen"/>peſtuous Storms and furious guſts, beſide, whole Fields of ſtanding Corn, by violent and unexpected Showers of falling Rain and Hail, have been deſtroyed, to the almoſt undoing of many rural Intendants, but not to dwell on this too long. I ſhall here give my Reader an impartial Account of ſo ſtrange and wonderful a Prodegy the like has not been heard in many Ages for ſure it is, that Heaven ſeldome does auſtend ſuch dreadful Sights to the admiring Sons of men, but it thereby forewarns them of ſome notable Event, that by ſuch Heralds oft are uſher<g ref="char:EOLhyphen"/>ed in, and certainly, a dawning Fate ſits bluſhing on their diſ<g ref="char:EOLhyphen"/>mal Fronts, the Prodegy of which I here intend to Treat, the Truth of which is credibly Atteſted be many ſeriou. Perſons, who beheld the ſame to their Amazement; it is as followeth.</p>
+            <p>At a place called <hi>Chipping-Norton,</hi> in <hi>Oxford</hi> ſhire, on the 28th of <hi>July,</hi> between the hours of nine and eleven at Night, the Skies being ſcerene, (yet notwithſtanding, by reaſon of the Heat attracted in the ſuperiour Regions, by the Beams of the Sun that precedent Day) there iſſued great Sheets of Flame or Glan<g ref="char:EOLhyphen"/>ces of Lightning, without Thunder, by reaſon it met with no Oppoſition nor Maſſy Clouds in their deſcending to their pro<g ref="char:EOLhyphen"/>per Centers, they continued for ſome time without intermiſſion, ſo that thoſe Sulphurous Fumes diſperſing themſelves from every Quarter of the Globe that by reaſon of their Heat they cor<g ref="char:EOLhyphen"/>rupted the Atr, and cauſed a ſtrange and unuſual ſmell ſo that many adjudged it to proceed from thoſe ſtill continuing Sulphu<g ref="char:EOLhyphen"/>rous Flames and Exhallations, this continuing till about the the hour before mentioned, at which time, ſome people gazing in the Streets, and ſome out of their Windows, could diſcern ſtrange Alteration in the courſe and motions of the Stars, thoſe Nocturnal Tapers that beſpangle the Blew Arch of Heaven up<g ref="char:EOLhyphen"/>on which, they tasking a more ſerious Obſervation, could from the <hi>Weſt</hi> part of Heaven, diſerne the Skies to open, and from thence to proceed, a perfect Flaming Sword, which pointed ſo
+<pb n="3" facs="tcp:51239:2"/>
+               <!-- PDF PAGE 23 -->directly to the <hi>Eaſt,</hi> its Shape was perfect, and of a prodige<g ref="char:EOLhyphen"/>ous ſize, twirling found, as if it was managed with ſome active Hand, at which Motion, the Golden Stars ſeemed all in Clu<g ref="char:EOLhyphen"/>ſters, joyned as if commanded to impoſe themſelves in Battel Array: moving with ſuch celerity, as if each one had took his Station, all fiery red they twinkel round, and ſeemed to ma<g ref="char:EOLhyphen"/>nage with their ſparkling Nods, no ſooner did this diſappear, but ſtraight another did diſcloſe its dreadful ſelf, for not far di<g ref="char:EOLhyphen"/>ſtant from the Equater, the Skies unfolding as before, another Flaming Sword more large and perfect than the firſt, from which the ſparkling Fire diſperſed themſelves abroad, ſtill mounting upwards, and all the burning Orbs that did ſurround, continu<g ref="char:EOLhyphen"/>ed their like motion as the other; this appearing a conſiderable time, gave opportunity to the Spectators to take a more perfect View, but it alſo diſappeared, and another in the ſame Form and poſture, appeared at <hi>North, North Weſt;</hi> and after many Cirklings, and often ſparkling of Fire, it paſſed onwards to<g ref="char:EOLhyphen"/>wards the <hi>South-Eaſt;</hi> and after ſome time, diſappeared to the Great amazement of the Beholders, who thought now that all was overpaſt, but they were quickly conuinced of their Errors, for in the <hi>Eaſt,</hi> Flaſhes of Lightning began to play moſt Furi<g ref="char:EOLhyphen"/>ouſly ſo that many took their Houſes, to avoid the hot Flaſhes that deſcended and ran along the Ground; ſo that it was ex<g ref="char:EOLhyphen"/>ceeding Light, although the Moon did not ſhine; whereupon the Skies unfolding, another Sword appeared like unto the for<g ref="char:EOLhyphen"/>mer but larger, and of a more bloudy colour being judged to be five yards in length; but by reaſon of the diſproportio<g ref="char:EOLhyphen"/>nable height, it was impoſſible to be exact in this point, but dreadful was its appearance; the Stars ſwiftly ſhooting round about it after an unwonted manner; It coming on apace to<g ref="char:EOLhyphen"/>wards the <hi>South Weſt,</hi> tho the Wine was contrary it no ſooner being arrived in the midſt of our Horizon but another Appear<g ref="char:EOLhyphen"/>ed in the South, the which alſo moving forwards, that from the <hi>Eaſt</hi> meeting it, ſeemed to divide it as it were in two parts, whereupon the Skies ſeemed to open ſeveral times to great aſto<g ref="char:EOLhyphen"/>niſhment of all that obſerved it, and ſtill as the Skies open<g ref="char:EOLhyphen"/>ed, the which was about ten or eleven times, ſome ſtrange ſhapes or other appeared.</p>
+            <p>
+               <pb n="2" facs="tcp:51239:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 24 -->
+Thus it continued for the ſpace of an hour and a half, all this while there being an exceeding ſtrong and Sulpherous ſmell. this dreadful Scene laſted near the ſpace of two hours, and is faith<g ref="char:EOLhyphen"/>fully Atteſted by ſeveral of the Inhabitants of the place afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
